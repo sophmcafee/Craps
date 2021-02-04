@@ -9,6 +9,14 @@ public class Die
 {
 private int roll;
     /**
+     * Constructor for objects of class Die
+     */
+    public Die()
+    {
+        // initialise instance variables
+        roll = this.roll();
+    }
+    /**
      * An example of a method - replace this comment with your own
      *
      * @param  y  a sample parameter for a method
