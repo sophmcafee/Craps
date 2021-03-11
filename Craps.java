@@ -92,3 +92,42 @@ public class Craps
         }
     }
 }
+
+
+/* 
+
+COMMENTS FROM THE INSTRUCTOR:
+
+You've made a good start to this program, Sophie, although there
+are clearly still some issues with it. Here's a sample run from 
+when I tried to play:
+
+    Want to play craps?!
+    Y
+    Ok YAY! Do you want me to explain the rules?
+    Y
+    Press <Enter> to roll...First roll: 2
+    WOW! You won on the first round congratulations!
+    (base) rwhite@Ligne2 Craps-2 % java Craps
+    Want to play craps?!
+    y
+    Ok YAY! Do you want me to explain the rules?
+    y
+    Press <Enter> to roll...First roll: 10
+    Ok, you didn't win or lose yet!
+    Your point number is now:10
+    Let's move on to the next round
+    Press <Enter> to roll...
+    Second roll: 4
+    Ok, you still didn't win or lose yet!
+    Press <Enter> to roll...
+    Want to play again?
+
+This doesn't follow the rules of crap, and doesn't include
+some of the features that were part of this assignment. We can
+take a look at this at some point if you want!
+
+SCORE: 8/15
+
+*/
+
